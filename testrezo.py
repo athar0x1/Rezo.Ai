@@ -1,2 +1,4 @@
 rezo.ai
-apikey="Try Harder"
+apikey="3437836yfbgehgcerivehcv"
+token="2387643782dghcvehc"
+password="lololololololo"
