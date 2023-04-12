@@ -1,2 +1,2 @@
-testsd.rezo.ai
+rezo.ai
 apikey="Try Harder"
